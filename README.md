@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI, Automation, Data Science, Machine Learning and Web Development.
 - 🌱 I’m currently learning Web Development With Django.
 - 💞️ I’m looking to collaborate on various project's related to my interests.
-- 📫 Email Me: akashchowdhury211@gmail.com
+- 📫 Contact Me On: akashchowdhury211@gmail.com
 
 <!---
 akashzeno/akashzeno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
