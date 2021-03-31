@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akashzeno.
-- 👀 I’m interested in AI, Automation, Data Science, Machine Learning and Web Development.
-- 🌱 I’m currently learning Web Development With Django.
+- 👀 I’m interested in AI, Automation, Data Science, Machine Learning and Web Design & Development.
+- 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on various project's related to my interests.
 - 📫 Contact Me On: akashchowdhury211@gmail.com
 
