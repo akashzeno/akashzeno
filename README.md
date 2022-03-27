@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Akash Chowdhury.
 - 👀 I’m interested in and Web Design & Development.
 - 🌱 Currently learning web development.
-- 📁 My Portfolio -> 🔗akashzeno.github.io
+- 🔗 [My Portfolio](https://akashzeno.github.io)
 - 💞️ I’m looking to collaborate on various project's related to my interests.
 - 📫 Contact Me On: akashchowdhury211@gmail.com
 <!---
