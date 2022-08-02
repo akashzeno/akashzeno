@@ -5,6 +5,7 @@
 - 💞️ I’m looking to collaborate on various project's related to my interests.
 - 🔗 [My Portfolio](https://akashzeno.github.io)
 - 📫 Contact Me On: akashchowdhury211@gmail.com
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!---
 akashzeno/akashzeno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
