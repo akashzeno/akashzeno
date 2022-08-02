@@ -1,4 +1,5 @@
-![snake gif](https://github.com/akashzeno/akashzeno/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/akashzeno/akashzeno/blob/output/github-contribution-grid-snake.svg)
+
 <a href="https://app.daily.dev/akashzeno"><img src="https://api.daily.dev/devcards/97b10354dce746ff88f27e20b9fb6601.png?r=6lm" width="400" alt="Akash Chowdhury's Dev Card"/></a>
 - 👋 Hi, I’m Akash Chowdhury.
 - 👀 I’m interested in and Web Design & Development.
