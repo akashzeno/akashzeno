@@ -6,7 +6,7 @@
 - 🔗 [My Portfolio](https://akashzeno.github.io)
 - 📫 Contact Me On: akashchowdhury211@gmail.com
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,sass,tailwind,wasm,vscode,wordpress,bash,blender,bootstrap,codepen,discord,flask,django,figma,firebase,git,github,gitlab,godot,heroku,ps,ai,instagram,linkedin,react,nextjs,vercel,vite,nodejs)](https://skillicons.dev)
 <!---
 akashzeno/akashzeno is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
