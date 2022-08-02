@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F5F70E&center=true&width=800&lines=Hi%2C+I+Am+Akash;I+love+to+Design%2C+Develope+and+Create!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&color=F5F70E&center=true&width=1000&lines=Hi%2C+I+Am+Akash;I+love+to+Design%2C+Develope+and+Create!)](https://git.io/typing-svg)
 
 ![snake svg](https://github.com/akashzeno/akashzeno/blob/output/github-contribution-grid-snake.svg)
 
