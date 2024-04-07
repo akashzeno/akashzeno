@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&color=F5F70E&center=true&width=1000&lines=Hi%2C+I+Am+Akash;I+love+to+Design%2C+Develope+and+Create!)](https://akashzeno.github.io)
 
-<a href="https://app.daily.dev/akashzeno"><img src="https://api.daily.dev/devcards/97b10354dce746ff88f27e20b9fb6601.png?r=6lm" width="400" alt="Akash Chowdhury's Dev Card"/></a>
+<a href="https://app.daily.dev/akashzeno"><img src="https://api.daily.dev/devcards/v2/rh3paq1qq94QcuObeyChD.png?r=awp&type=default" width="356" alt="Akash Chowdhury's Dev Card"/></a>
 
 [![snake svg](https://github.com/akashzeno/akashzeno/blob/output/github-contribution-grid-snake.svg)](https://akashzeno.github.io)
 
