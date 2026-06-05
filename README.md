@@ -2,10 +2,6 @@
 
 <a href="https://app.daily.dev/akashzeno"><img src="https://api.daily.dev/devcards/v2/rh3paq1qq94QcuObeyChD.png?r=awp&type=default" width="356" alt="Akash Chowdhury's Dev Card"/></a>
 
-- 👋 Hi, I’m Akash Chowdhury.
-- 👀 I’m interested in and Web Design & Development.
-- 🌱 Currently learning React With Next.js
-- 💞️ I’m looking to collaborate on various project's related to my interests.
 - 🔗 [My Portfolio](https://akashzeno.github.io)
 - 📫 Contact Me On: akashchowdhury211@gmail.com
 
