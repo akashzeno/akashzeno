@@ -2,8 +2,6 @@
 
 <a href="https://app.daily.dev/akashzeno"><img src="https://api.daily.dev/devcards/v2/rh3paq1qq94QcuObeyChD.png?r=awp&type=default" width="356" alt="Akash Chowdhury's Dev Card"/></a>
 
-[![snake svg](https://github.com/akashzeno/akashzeno/blob/output/github-contribution-grid-snake.svg)](https://akashzeno.github.io)
-
 - 👋 Hi, I’m Akash Chowdhury.
 - 👀 I’m interested in and Web Design & Development.
 - 🌱 Currently learning React With Next.js
